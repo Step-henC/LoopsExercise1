@@ -1,0 +1,8 @@
+C:\Users\steve\repos\LoopsExercise1\LoopsExercise1\bin\Debug\LoopsExercise1.exe.config
+C:\Users\steve\repos\LoopsExercise1\LoopsExercise1\bin\Debug\LoopsExercise1.exe
+C:\Users\steve\repos\LoopsExercise1\LoopsExercise1\bin\Debug\LoopsExercise1.pdb
+C:\Users\steve\repos\LoopsExercise1\LoopsExercise1\obj\Debug\LoopsExercise1.csproj.AssemblyReference.cache
+C:\Users\steve\repos\LoopsExercise1\LoopsExercise1\obj\Debug\LoopsExercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\repos\LoopsExercise1\LoopsExercise1\obj\Debug\LoopsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\steve\repos\LoopsExercise1\LoopsExercise1\obj\Debug\LoopsExercise1.exe
+C:\Users\steve\repos\LoopsExercise1\LoopsExercise1\obj\Debug\LoopsExercise1.pdb
